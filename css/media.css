@@ -1,0 +1,208 @@
+/* Extra small screens */
+/* hint : smart watches */
+@media all and (width <=576px) {
+    /* code excute when sreen extra small */
+
+    .container .title h1{
+    
+        width: 80%;
+        color: #fff;
+        font-weight: 600;
+        font-size: 48px;
+    }
+        
+      .subtitle {
+        
+        color: #fff;
+        font-size: 24px;
+        font-weight: 600;
+    }
+    .des-portfolio{
+        font-size: 12px;
+    }
+
+    .contact .content .Icon-list li{
+        font-size: 16px;
+    }
+
+    .xs-100{
+        width: 100%;
+    }
+    .xs-70{
+        width: 70%;
+    }
+    .xs-50{
+        width: 50%;
+    }
+    .xs-25{
+        width: 25%;
+    }
+
+    .xs-16{
+        width: 16%;
+    }
+
+}
+
+
+
+/* small screens */
+/* hint : iphone 12 */
+@media all and (576px< width <=768px) {
+    /* code excute when sreen small */
+
+   
+
+  .container .title h1{
+    
+    
+    color: #fff;
+    font-weight: 600;
+    font-size: 48px;
+}
+    
+  .subtitle {
+    
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+}
+ 
+  
+    
+    
+    .s-100{
+        width: 100%;
+    }
+    .s-70{
+        width: 70%;
+    }
+    .s-50{
+        width: 50%;
+    }
+    .s-25{
+        width: 25%;
+    }
+
+    .s-16{
+        width: 16%;
+    }
+
+}
+
+
+/* med screens */
+/* hint : iPad */
+@media all and (768px< width <=992px) {
+    /* code excute when sreen med */
+
+    .container .title h1{
+        width: 80%;
+         
+    }
+    .med-100{
+        width: 100%;
+    }
+    .med-70{
+        width: 70%;
+    }
+    .med-50{
+        width: 50%;
+    }
+    .med-33{
+        width: 50%;
+    }
+    .med-25{
+        width: 25%;
+    }
+
+    .med-16{
+        width: 16%;
+    }
+
+
+}
+
+/* large screens */
+/* hint : laptop 13 inch */
+@media all and (992px< width <=1200px) {
+    /* code excute when sreen lg */
+    
+    
+    .lg-100{
+        width: 100%;
+    }
+    .lg-70{
+        width: 70%;
+    }
+    .lg-50{
+        width: 50%;
+    }
+    .lg-25{
+        width: 25%;
+    }
+    .lg-20{
+        width: 20%;
+    }
+
+    .lg-16{
+        width: 16%;
+    }
+
+
+}
+
+/* extra-large screens */
+/* hint : laptop 16 inch */
+@media all and (1200px< width <=1400px) {
+    /* code excute when sreen x-lg */
+    .xl-100{
+        width: 100%;
+    }
+    .xl-70{
+        width: 70%;
+    }
+    .xl-50{
+        width: 50%;
+    }
+    .xl-25{
+        width: 25%;
+    }
+    .xl-20{
+        width: 20%;
+    }
+
+    .xl-16{
+        width: 16%;
+    }
+
+
+}
+
+
+/* extra-large screens */
+/* hint : smart iv inch */
+@media all and (width > 1400px) {
+    /* code excute when sreen 2x-lg */
+
+    .xxl-100{
+        width: 100%;
+    }
+    .xxl-70{
+        width: 70%;
+    }
+    .xxl-50{
+        width: 50%;
+    }
+    .xxl-25{
+        width: 25%;
+    }
+     .xxl-20{
+        width: 20%;
+    }
+
+    .xxl-16{
+        width: 16%;
+    }
+
+}
